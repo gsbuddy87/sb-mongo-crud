@@ -19,7 +19,7 @@ This java based springboot project is just doing CRUD operations for MongoDB. At
 ### Testing
 - When you just run an endpoint for the first time, it creates a database (along with collection) in Atlas automatically
 ![img_4.png](img_4.png)
-- 
+  
 ![img_3.png](img_3.png)
 
 - If you face any connection issue, whitelist your local ip in Atlas Cloud.
