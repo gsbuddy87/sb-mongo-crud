@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "sb-mongo-crud"
+  data:
+    mongodb:
+      uri: "mongodb+srv://<username>:<password>@cluster0.ozogr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+      database: "demo-mongo-db"
