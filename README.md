@@ -23,7 +23,7 @@ This java based springboot project is just doing CRUD operations for MongoDB. At
 ![img_3.png](img_3.png)
 
 - If you face any connection issue, whitelist your local ip in Atlas Cloud.
-- 
+- Test all endpoints
 
 ### Note
 - This project is just for helping developers who are new to mongodb and springboot
